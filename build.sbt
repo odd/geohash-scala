@@ -7,7 +7,7 @@ version := "0.7.1"
 scalaVersion := "2.13.1"
 
 resolvers ++= Seq(
-  "Sonatype Releases" at "http://oss.sonatype.org/content/repositories/releases"
+  "Sonatype Releases" at "https://oss.sonatype.org/content/repositories/releases"
 )
 
 libraryDependencies ++= Seq(
